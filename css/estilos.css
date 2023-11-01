@@ -2,7 +2,8 @@
   --cinza: #aaa;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
-  --branca: #fff;
+  --branca: hsl(0, 0%, 100%);
+  --preto: #000; 
   --luz: rgb(229, 255, 0);
 }
 
@@ -17,9 +18,10 @@ body {
 }
 
 h1 {
-  color: var(--branca);
+  color: var(--preto);
   margin-bottom: 20px;
   font-size: 2rem;
+  font-style: bold;
 }
 
 .teclado {
