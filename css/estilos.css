@@ -18,10 +18,9 @@ body {
 }
 
 h1 {
-  color: var(--preto);
+  color: var(--vermelha);
   margin-bottom: 20px;
   font-size: 2rem;
-  font-style: bold;
 }
 
 .teclado {
