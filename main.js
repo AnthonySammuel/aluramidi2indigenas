@@ -1,7 +1,7 @@
-function tocaSomPeido() {
+function tocaSomPom() {
     document.querySelector('#som_tecla_peido').play();
 }
-document.querySelector('.tecla_peido').onclick= tocaSomPeido;
+document.querySelector('.tecla_pom').onclick= tocaSomPom;
 
 function tocaSomClap() {
     document.querySelector('#som_tecla_clap').play();
